@@ -1,15 +1,29 @@
-# Nyi Nyi Lin – IT Support Engineer | Network & System Administrator
+# Nyi Nyi Lin
+
+**IT Support Engineer | Network & System Administrator**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nyi-nyi-lin-44329924b)  
+
+---
+
+## **Tabs**
+- [Summary](#summary)
+- [Experience](#experience)
+- [Education](#education)
+- [Skills](#skills)
+- [Certifications](#certifications)
+- [Languages](#languages)
 
 ---
 
 ## Summary
-IT Support Engineer with 4+ years of hands-on experience in IT infrastructure, networking, and end-user support. Proven track record in maintaining secure, reliable, and efficient systems. Adept at managing diverse technologies, leading projects, and adapting to evolving business needs.
+> IT Support Engineer with 4+ years of hands-on experience in IT infrastructure, networking, and end-user support. Proven track record in maintaining secure, reliable, and efficient systems. Adept at managing diverse technologies, leading projects, and adapting to evolving business needs.
 
 ---
 
 ## Experience
 
-### **IT Support Engineer – Linux Lab**
+### **IT Support Engineer – Linux Lab**  
 *02/2025 – Present, Yangon, Myanmar*
 
 - Monitored and configured VMs, servers, VPN tunnels, firewalls, routers, switches, storage devices (Nimble, Synology), and SWIFT network.
@@ -18,7 +32,7 @@ IT Support Engineer with 4+ years of hands-on experience in IT infrastructure, n
 - Utilized monitoring tools (Zabbix, Grafana); experience with containerization, databases, and NGINX.
 - Configured Mikrotik devices, RUGUS and UniFi APs, VPN tunnels, and firewalls.
 
-### **IT Solution Desk Support Specialist – KBZMS General Insurance**
+### **IT Solution Desk Support Specialist – KBZMS General Insurance**  
 *08/2023 – 02/2025, Yangon, Myanmar*
 
 - Managed routers, switches, firewalls, servers, Microsoft Office 365, IP phones, SAP, and TCS software.
@@ -26,7 +40,7 @@ IT Support Engineer with 4+ years of hands-on experience in IT infrastructure, n
 - Provided Microsoft 365 user management, troubleshooting, and security integration with Active Directory and endpoint protection.
 - Supported new branch setups and maintained IT inventory.
 
-### **Junior Engineer – GlobalNet**
+### **Junior Engineer – GlobalNet**  
 *04/2021 – 08/2023, Yangon, Myanmar*
 
 - Configured and maintained PfSense firewalls and network redundancy.
@@ -43,7 +57,6 @@ Dagon University – *2022 – Present*
 ---
 
 ## Skills
-
 - IT Infrastructure Management  
 - Network Protocols (In-depth knowledge)  
 - Hardware & Software Configuration  
@@ -54,7 +67,6 @@ Dagon University – *2022 – Present*
 ---
 
 ## Certifications
-
 - Network Engineering – Loop Avoidance  
 - EnGenius Certified Network Specialist  
 - Red Hat Certified System Administrator  
@@ -65,7 +77,6 @@ Dagon University – *2022 – Present*
 ---
 
 ## Languages
-
 - **Myanmar:** Native  
 - **English:** Advanced  
 
