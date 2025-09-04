@@ -69,7 +69,7 @@ Dagon University – *2022 – Present*
 ## Certifications
 - Network Engineering – Loop Avoidance  
 - EnGenius Certified Network Specialist  
-- Red Hat Certified System Administrator  
+- Red Hat Certified System Administrator(attendance)
 - AWS Educate: Introduction to Cloud 101  
 - Cybersecurity – Fortinet  
 - Cisco Certified Network Associate (CCNA)  
